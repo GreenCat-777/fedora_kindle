@@ -15,3 +15,10 @@ to launch use [booklet](https://github.com/GreenCat-777/fedora_kindle/blob/main/
 armhf only obviously
 IDK why you would use this but it's here
 If you want support or want to help me upgrade this (gui more features etc.) [dm me on discord](https://discord.com/users/902006605791494255)
+
+# License
+This project is released into the public domain under The Unlicense.
+No rights reserved.
+
+Attribution is appreciated but is not required.
+
