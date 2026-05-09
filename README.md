@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U11TVK1A)
+
 # fedora_kindle
 Fedora shell for kindle.
 
